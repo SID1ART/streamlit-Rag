@@ -146,7 +146,3 @@ Open the local URL shown in your terminal, usually `http://localhost:8501`.
 **Siddharth**
 
 GitHub: [SID1ART](https://github.com/SID1ART)
-
-## License
-
-Add a license file if you intend to distribute or allow others to reuse this project. Without a specified license, others do not automatically receive permission to reuse your code.
